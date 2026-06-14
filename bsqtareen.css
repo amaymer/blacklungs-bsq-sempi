@@ -106,4 +106,5 @@
     line-height: 22px;
     font-family: sans-serif;
     letter-spacing: 5%;
+    overflow: auto;
 }
