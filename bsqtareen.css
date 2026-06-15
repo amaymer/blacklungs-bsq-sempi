@@ -7,11 +7,11 @@ body .bsqcont2  {
     --color-icon: var(--cicon);
     }
 
-    body.day .bsqcont1, .bsqcont2  {
+    body.day .bsqcont1, body.day .bsqcont2 {
     --background-txt: #f1f1f130;!important;
     }
 
-    body.night .bsqcont1, .bsqcont2  {
+    body.night .bsqcont1, body.night .bsqcont2 {
     --background-txt: #0a0a0a7a;!important;
     }
 
