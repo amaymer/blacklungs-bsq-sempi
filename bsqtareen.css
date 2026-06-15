@@ -133,14 +133,15 @@ body {
     color:#999999e3;
     text-align:justify;
     padding-left: 20px;
-    padding-right: 25px;
+    padding-right: 10px;
     padding-bottom: 20px;
+    margin-right:10px;
     line-height: 22px;
     font-family: sans-serif;
     letter-spacing: 5%;
     overflow: auto;
     scrollbar-width: thin;!important;
-    scrollbar-color: #785e4180 transparent;!important;
+    scrollbar-color: #785e41bd transparent;!important;
 }
 /* Tamaño de la barra (ancho para vertical, alto para horizontal) */
 .bsqcont2 .desc::-webkit-scrollbar {
@@ -171,7 +172,7 @@ body {
 
 /* Quita las flechas de arriba y abajo solo en tu buscador */
 .bsqcont2 .desc::-webkit-scrollbar-button {
-    display: none;
+    display: none; !important;
     width: 0;
     height: 0;
 }
