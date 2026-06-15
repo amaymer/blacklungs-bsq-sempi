@@ -8,11 +8,11 @@ body .bsqcont2  {
     }
 
     body.day .bsqcont1, body.day .bsqcont2 {
-    --background-txt: #f1f1f130;!important;
+    --background-txt: #f1f1f130 !important;
     }
 
     body.night .bsqcont1, body.night .bsqcont2 {
-    --background-txt: #0a0a0a7a;!important;
+    --background-txt: #0a0a0a7a !important;
     }
 
     body.day .bsqcont2 .imagen::after {
@@ -38,8 +38,8 @@ body .bsqcont2  {
     font-family: sans-serif;
     letter-spacing: 5%;
     overflow: auto;
-    scrollbar-width: thin;!important;
-    scrollbar-color: #785e41bd transparent;!important;
+    scrollbar-width: thin !important;
+    scrollbar-color: #785e41bd transparent !important;
 }
 
 .bsqcont1 strong {
@@ -159,37 +159,34 @@ body .bsqcont2  {
     font-family: sans-serif;
     letter-spacing: 5%;
     overflow: auto;
-    scrollbar-width: thin;!important;
-    scrollbar-color: #785e41bd transparent;!important;
+    scrollbar-width: thin !important;
+    scrollbar-color: #785e41bd transparent !important;
 }
 
-/* Tamaño de la barra (ancho para vertical, alto para horizontal) */
 .bsqcont2 .desc::-webkit-scrollbar {
-    width: 16px;!important;
-    background: transparent;!important;
+    width: 16px !important;
+    background: transparent !important;
 }
 
-/* El carril o fondo por donde se mueve la barra */
 .bsqcont2 .desc::-webkit-scrollbar-track {
-    background: transparent;!important; 
-    border-radius: 4px;!important;
+    background: transparent !important; 
+    border-radius: 4px !important;
 }
 
-/* El tirador o "pastilla" que arrastras con el ratón */
 .bsqcont2 .desc::-webkit-scrollbar-thumb {
-    background-color: #785e4180;!important;
-    border-radius: 4px;!important;
-    transition: background-color 0.3s ease;!important;
-    border-right: 10px solid transparent; /* Crea un muro invisible a la derecha */
-    background-clip: padding-box;         /* Pinta el color solo por dentro del borde */
+    background-color: #785e4180 !important;
+    border-radius: 4px !important;
+    transition: background-color 0.3s ease !important;
+    border-right: 10px solid transparent;
+    background-clip: padding-box;
 }
 
 .bsqcont2 .desc::-webkit-scrollbar-thumb:hover {
-    background-color: #785e41d7;!important; 
+    background-color: #785e41d7 !important; 
 }
 
 .bsqcont2 .desc::-webkit-scrollbar-button {
-    display: none; !important;
+    display: none !important;
     width: 0;
     height: 0;
 }
