@@ -16,11 +16,11 @@
     }
 
     body.day .bsqcont2 .imagen::after {
-    background: linear-gradient(to bottom, rgba(85, 85, 85, 0.507) 0%, rgba(196, 196, 196, 0.87) 100%);
+    --imagen-gradiente: linear-gradient(to bottom, rgba(187, 187, 187, 0.507) 0%, rgba(196, 196, 196, 0.87) 100%) !important;
 }
 
     body.night .bsqcont2 .imagen::after {
-    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.164) 0%, rgba(0, 0, 0, 0.87) 100%);
+    --imagen-gradiente: linear-gradient(to bottom, rgba(32, 32, 32, 0.507) 0%, rgba(46, 46, 46, 0.87) 100%) !important;
 }
 
 .bsqcont2 {
@@ -99,7 +99,7 @@
   left: 0;
   width: 100%;
   height: 100%;
-  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.164) 0%, rgba(0, 0, 0, 0.87) 100%);
+  background: var(--imagen-gradiente);
 }
 
 .bsqcont2 .txt{
