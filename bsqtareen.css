@@ -6,6 +6,14 @@ body .bsqcont2  {
     --cborder: var(--brd-c);
     --color-icon: var(--cicon);
     }
+
+    body.day .bsqcont1  {
+    --background-txt: #f1f1f130;!important;
+    }
+
+    body.night .bsqcont1  {
+    --background-txt: #0a0a0a7a;!important;
+    }
     
     body.day .bsqcont2  {
     --background-txt: #f1f1f130;!important;
