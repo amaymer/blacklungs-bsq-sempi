@@ -113,16 +113,16 @@
     position: absolute;
     z-index: 2;
     transition: 1s ease;
-
-
 }
-
 
 .firmasaid:hover .deco2 {
     background-color: #785e41;
 }
 
-
 .content.clearfix div .saidpost strong {
     color: #785e41;
+}
+
+.content.clearfix div .saidpost u {
+    text-decoration-color: #785e41
 }
