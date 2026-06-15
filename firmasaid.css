@@ -124,5 +124,5 @@
 }
 
 .content.clearfix div .saidpost u {
-    text-decoration-color: #785e41
+    border-bottom: 2px solid #785e41;
 }
