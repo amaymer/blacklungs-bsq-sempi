@@ -159,6 +159,9 @@ body {
     background-color: #785e4180;!important;
     border-radius: 4px;!important;
     transition: background-color 0.3s ease;!important;
+    border-right: 10px solid transparent; /* Crea un muro invisible a la derecha */
+    background-clip: padding-box;         /* Pinta el color solo por dentro del borde */
+}
 }
 
 /* Efecto hover: cuando el usuario pasa el ratón por encima del tirador */
