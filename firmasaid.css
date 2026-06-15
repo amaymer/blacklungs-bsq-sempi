@@ -71,6 +71,8 @@
     text-transform: uppercase;
     transition: 1s ease;
     line-height: 1em;
+    text-justify: inter-character;
+    letter-spacing: 0.2px;
 }
 
 
