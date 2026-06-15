@@ -42,6 +42,10 @@ body .bsqcont2  {
     scrollbar-color: #785e41bd transparent;!important;
 }
 
+.bsqcont1 strong {
+    font-weight: bold;
+}
+
 .bsqcont2 {
     height: 350px;
     width: 700px;
