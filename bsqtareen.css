@@ -5,6 +5,7 @@
     --accent: var(--acc-1);
     --cborder: var(--brd-c);
     --color-icon: var(--cicon);
+    --background-txt: #ffffff3b;
     }
     
     body.day {
