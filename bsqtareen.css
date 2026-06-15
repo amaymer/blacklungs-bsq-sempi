@@ -25,7 +25,7 @@ body .bsqcont2  {
 
 .bsqcont1 {
     height: auto;
-    width: 700px;
+    width: 670px;
     padding: 15px;
     margin: 10px;
     background-color: var(--background-txt);
@@ -40,10 +40,6 @@ body .bsqcont2  {
     overflow: auto;
     scrollbar-width: thin !important;
     scrollbar-color: #785e41bd transparent !important;
-}
-
-.bsqcont1 strong {
-    font-weight: bold;
 }
 
 .bsqcont2 {
