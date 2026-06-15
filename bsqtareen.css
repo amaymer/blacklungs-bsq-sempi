@@ -144,7 +144,7 @@ body {
 }
 /* Tamaño de la barra (ancho para vertical, alto para horizontal) */
 .bsqcont2 .desc::-webkit-scrollbar {
-    width: 6px;!important;
+    width: 16px;!important;
     background: transparent;!important;
 }
 
