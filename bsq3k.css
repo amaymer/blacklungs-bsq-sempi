@@ -139,8 +139,8 @@ body, body .bsqcont2  {
     font-size: 17px;
 }
 
-.bsq3k .bsq3k-dts span strong {
-    font-size: 12px;
+.bsq3k .bsq3k-dts .span .content.clearfix strong {
+    font-size: 14px;
 }
 
 .bsq3k .bsq3k-txt .bsq3k-alert {
