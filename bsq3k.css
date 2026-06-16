@@ -238,3 +238,13 @@ body, body .bsqcont2  {
     width: 0 !important;
     height: 0 !important;
 }
+
+.bsq3k .bsq3k-txt::-webkit-scrollbar-button,
+.bsq3k .bsq3k-txt::-webkit-scrollbar-button:start,
+.bsq3k .bsq3k-txt::-webkit-scrollbar-button:end,
+.bsq3k .bsq3k-txt::-webkit-scrollbar-button:vertical:decrement,
+.bsq3k .bsq3k-txt::-webkit-scrollbar-button:vertical:increment {
+    display: none !important;
+    width: 0 !important;
+    height: 0 !important;
+}
