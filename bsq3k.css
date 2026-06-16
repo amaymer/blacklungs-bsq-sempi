@@ -215,7 +215,7 @@ body, body .bsqcont2  {
     background-clip: padding-box;
 }
 
-.bsq3k.bsq3k-txt::-webkit-scrollbar-thumb:hover {
+.bsq3k .bsq3k-txt::-webkit-scrollbar-thumb:hover {
     background-color: var(--g2) !important; 
 }
 
