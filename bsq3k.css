@@ -26,7 +26,7 @@ body, body .bsqcont2  {
     --background-dts: #cdcdcd61 !important;
     }
 
-    body.night .bsq3k, body.day .bsq3k-dts {
+    body.night .bsq3k, body.night .bsq3k-dts {
     --background-bsq3k: #0a0a0a7a !important;
     --background-dts: #08080869 !important;
     }
