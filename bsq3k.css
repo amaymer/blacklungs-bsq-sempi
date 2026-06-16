@@ -21,12 +21,14 @@ body, body .bsqcont2  {
     margin: auto;
     }
 
-    body.day .bsq3k, body.day .bsq3k {
+    body.day .bsq3k, body.day .bsq3k-dts {
     --background-bsq3k: #f1f1f130 !important;
+    --background-dts: #cdcdcd61 !important;
     }
 
-    body.night .bsq3k, body.night .bsq3k {
+    body.night .bsq3k, body.day .bsq3k-dts {
     --background-bsq3k: #0a0a0a7a !important;
+    --background-dts: #08080869 !important;
     }
 
     body.day .bsq3k-img::before {
@@ -112,13 +114,14 @@ body, body .bsqcont2  {
 }
 
 .bsq3k .bsq3k-dts {
+    background: var(--background-dts);
     display:grid;
     position: relative;
     margin-bottom: 0;
     grid-template-columns: 1fr 1fr;
     border: #999999;
     padding-top: 15px;
-    margin-top:10px;
+    padding-bottom: 15px;
 }
 
 .bsq3k .bsq3k-dts span {
