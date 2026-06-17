@@ -148,7 +148,11 @@ body, body .bsqcont2  {
 }
 
 .bsq3k-dts i {
-    font-size: 20px;
+    font-size: 18px;
+}
+
+.bsq3k-dts strong {
+    font-size: 14px;
 }
 
 .bsq3k .bsq3k-txt .bsq3k-alert {
