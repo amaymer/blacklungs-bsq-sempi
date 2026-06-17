@@ -136,15 +136,19 @@ body, body .bsqcont2  {
     text-align: center;
     align-content: center;
     font-family: 'Playfair Display', serif;
-    font-size: 17px;
 }
 
 .bsq3k .bsq3k-dts span:first-child {
     border-right: 1px solid var(--g2);
 }
 
-.bsq3k .bsq3k-dts .span .content.clearfix strong {
+.content.clearfix div .bsq3k-dts strong {
+    color: var(--g2);
     font-size: 14px;
+}
+
+.content.clearfix div .bsq3k-dts i {
+    font-size: 20px;
 }
 
 .bsq3k .bsq3k-txt .bsq3k-alert {
