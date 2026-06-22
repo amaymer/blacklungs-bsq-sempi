@@ -104,7 +104,6 @@ body {
     border: 1px solid var(--accent);
     align-self: center;
     justify-self: center;
-    background: var(--accent);
     display: grid; 
     place-items: center;
 }
