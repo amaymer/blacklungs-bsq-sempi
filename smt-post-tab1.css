@@ -50,6 +50,7 @@ body .smt-post-tab  {
     text-transform: uppercase;
     font-family: 'Puritan', sans-serif;
     letter-spacing: 1px;
+    align-self:end;
 }
 
 .smt-post-pcipant {
@@ -69,6 +70,7 @@ body .smt-post-tab  {
     font-size: 12px;
     text-transform: uppercase;
     font-family: sans-serif;
+    align-self:end;
 }
 
 .smt-post-dts2 {
