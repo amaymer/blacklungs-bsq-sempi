@@ -146,6 +146,7 @@ body .smt-post-tab  {
 }
 
 .smt-post-img {
+    position:relative;
     clip-path: polygon(50% 0%,100% 50%,50% 100%,0% 50%);
 }
 
