@@ -41,12 +41,12 @@ body .smt-post-tab  {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
     grid-template-rows: 1fr 1fr auto;
-    border-bottom: 7px solid var(--g1);
+    border-bottom: 7px solid var(--accent);
 }
 
 
 .smt-post-title {
-    color: var(--g1);
+    color: var(--accent);
     font-size: 14px;
     text-transform: uppercase;
     padding: 20px;
@@ -120,7 +120,7 @@ body .smt-post-tab  {
 
 .smt-post-dec1, .smt-post-dec2 {
     content: "";
-    background-color: var(--g1);
+    background-color: var(--accent);
     height: 1px;
     align-self: center;
     width: 243px;
@@ -168,5 +168,5 @@ body .smt-post-tab  {
 
 .smt-post-img-frame {
     transform: rotate(45deg);
-    outline: 1px solid var(--g1);
+    outline: 1px solid var(--accent);
 }
