@@ -29,12 +29,6 @@ body .smt-post-tab  {
     --background-post-tab: #0a0a0a7a !important;
     }
 
-body {
-    background-color: #0d0d0d;
-    margin: 0;
-    padding: 20px;
-}
-
 .smt-post-tab {
     width: 750px;
     margin: auto;
