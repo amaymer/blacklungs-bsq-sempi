@@ -145,3 +145,66 @@ body.night .smt-post-img img {
     line-height: 1.6;
     padding: 45px 45px 0 45px;
 }
+
+@font-face {
+  font-family: 'Moggen';
+  src: url('https://file.garden/aJ-V1e3UNxArbraS/fonts/moggen.regular.otf') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Vellara';
+  src: url('https://file.garden/aJ-V1e3UNxArbraS/fonts/vellara.personal-use.otf') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Warren';
+  src: url('https://file.garden/aJ-V1e3UNxArbraS/fonts/warren.regular.otf') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Transcity';
+  src: url('https://file.garden/aJ-V1e3UNxArbraS/fonts/transcity.regular.otf') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Orange Avenue';
+  src: url('https://file.garden/aJ-V1e3UNxArbraS/fonts/orange-avenue-demo.regular.otf') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Puritan';
+  src: url('https://file.garden/aJ-V1e3UNxArbraS/fonts/puritan.regular.ttf') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Lato';
+  src: url('https://file.garden/aJ-V1e3UNxArbraS/fonts/lato.regular.ttf') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Playfair Display';
+  src: url('https://file.garden/aJ-V1e3UNxArbraS/fonts/playfair-display.regular.ttf') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Balery';
+  src: url('https://file.garden/aJ-V1e3UNxArbraS/fonts/balery-demo.regular.otf') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
